@@ -1,0 +1,280 @@
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/appsettings.Development.json
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/appsettings.json
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Web
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Web.deps.json
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Web.runtimeconfig.json
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.AssemblyInfo.cs
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.csproj.CoreCompileInputs.cache
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cs
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cache
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets/msbuild.build.Web.props
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web.props
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Web.props
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets.pack.json
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets.build.json
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/staticwebassets.development.json
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/scopedcss/bundle/Web.styles.css
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.csproj.CopyComplete
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/refint/Web.dll
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/Web.genruntimeconfig.cache
+/home/teerch/Documents/C#/Web/obj/Debug/net7.0/ref/Web.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Azure.Core.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Azure.Identity.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Google.Protobuf.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Humanizer.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/MySql.Data.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/MySqlConnector.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.CodeDom.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Memory.Data.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/ZstdSharp.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/Web/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/appsettings.Development.json
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/appsettings.json
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Web
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Web.deps.json
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Web.runtimeconfig.json
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Azure.Core.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Google.Protobuf.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Humanizer.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/MySql.Data.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/MySqlConnector.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.CodeDom.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/ZstdSharp.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.AssemblyInfo.cs
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.csproj.CoreCompileInputs.cache
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cs
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cache
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.Web.props
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web.props
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Web.props
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/scopedcss/bundle/Web.styles.css
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.csproj.CopyComplete
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/refint/Web.dll
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/Web.genruntimeconfig.cache
+/home/teerch/Documents/C#/WebApi/obj/Debug/net7.0/ref/Web.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/AutoMapper.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/teerch/Documents/C#/WebApi/bin/Debug/net7.0/Bogus.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/appsettings.Development.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/appsettings.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Web
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Web.deps.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Web.runtimeconfig.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/AutoMapper.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Azure.Core.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Azure.Identity.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Bogus.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Google.Protobuf.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Humanizer.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Mono.TextTemplating.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/MySql.Data.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/MySqlConnector.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/BouncyCastle.Crypto.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.CodeDom.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Memory.Data.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Security.Permissions.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/ZstdSharp.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.csproj.AssemblyReference.cache
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.GeneratedMSBuildEditorConfig.editorconfig
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.AssemblyInfoInputs.cache
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.AssemblyInfo.cs
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.csproj.CoreCompileInputs.cache
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cs
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.MvcApplicationPartsAssemblyInfo.cache
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.build.Web.props
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.Web.props
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.Web.props
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets.pack.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets.build.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/staticwebassets.development.json
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/scopedcss/bundle/Web.styles.css
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.csproj.CopyComplete
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/refint/Web.dll
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.pdb
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/Web.genruntimeconfig.cache
+/home/teerch/Documents/C#/WEB RELATED/WebApi/obj/Debug/net7.0/ref/Web.dll
