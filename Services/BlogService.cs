@@ -19,11 +19,11 @@ public class BlogService : IBlogService
         return user;
     }
 
-    public async Task<User> GetUserByIdAsync(int id)
+    public async Task<User> GetUserByEmailAsync(string email)
     {
         var user = await _context.Users
         .AsNoTracking()
-        .SingleOrDefaultAsync(x => x.Id == id);
+        .SingleOrDefaultAsync(x => x.Email == email);
         return user;
     }
     public async Task<ActionResult<IEnumerable<Posts>>> GetPostsOfUserById(int id)

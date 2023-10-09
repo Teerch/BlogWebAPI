@@ -7,7 +7,7 @@ namespace WebApi.Repository
     public interface IBlogService
     {
         Task<IEnumerable<User>> GetUsersAsync();
-        Task<User> GetUserByIdAsync(int id);
+        Task<User> GetUserByEmailAsync(string email);
         Task<ActionResult<IEnumerable<Posts>>> GetPostsOfUserById(int id);
         Task<User> CreateUserAsync([FromBody] string firstname, string lastname, string username, string password, string email);
         Task<User> Autenticate(string userName, byte[] password);
